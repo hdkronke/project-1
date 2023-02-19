@@ -1,0 +1,44 @@
+Project 1 Notes
+
+
+Readme Analysis
+	compile each member's responses
+
+Visualization
+	make two charts for my question
+	labels are accurate
+
+Analysis
+	follow charts with explanation
+	use statistical analysis
+	support findings with numbers
+
+Presentation
+	everyone is prepared beforehand
+	should be simple enough
+
+Slide Deck
+	3-4 slides per person
+
+API
+	optional, could supplement any part of the project
+
+------------------------------------------------
+
+I am focusing on question #9
+If you have a mental health condition, do you feel that it interferes with your work?
+
+Question IDs worth noting
+	1 - age of employee
+	2 - gender of employee
+	33 - do you currently have a mental health disorder
+	48 - if you have a disorder, how often does it interfere with your work (while being treated)?
+	49 - if you have a disorder, how often does it interfere with your work (when not treated/experiencing symptoms)?
+	54 - do you believe your productivity is ever affected by disorder?
+	55 - if work is affected by disorder, what percentage of work time is changed?
+	89 - race of employee
+	92 - if you have disorder, do you feel it interferes with your work?
+	118 - work remote
+
+
+if question id 54 is blank, use data from 92 and vice versa?
