@@ -1,5 +1,6 @@
 # project-1
 Group Project 1: Pandas, Python (Mental Health in Tech)
+
 This is a backup of the Project 1 assignment I did with Patrick Bacza, Jay Laxami, and Stephen Mims
 
 Original group repo is here:
